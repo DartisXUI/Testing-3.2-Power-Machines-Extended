@@ -58,6 +58,11 @@ hash = "64e3d7b364a86406558cc033bbd1fc936711951888fd1906eba9904789974275"
 metafile = true
 
 [[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
+metafile = true
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "6a0db64ad6caf2d910fa52020c0eaf7ae3bcd5558693ad59dd5378fb830c2c06"
 metafile = true
@@ -256,6 +261,11 @@ hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "a9fa720cb799b8a70ad7411c16c8c61b87883fffba58117ecd3e7976f18c4f40"
+metafile = true
+
+[[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
 metafile = true
@@ -271,6 +281,16 @@ hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
 metafile = true
 
 [[files]]
+file = "mods/genetics-reborn.pw.toml"
+hash = "ea5fb608e14fadf0e0c60d2d9940938568c415d0062d8974ed62ab64c45dd815"
+metafile = true
+
+[[files]]
+file = "mods/gunpowderlib.pw.toml"
+hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
+metafile = true
+
+[[files]]
 file = "mods/horse-tweaks.pw.toml"
 hash = "db8018266ead23ac0382439a100b09af5a48f22721e96972322ff9a7eba34e5c"
 metafile = true
@@ -283,6 +303,16 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
+metafile = true
+
+[[files]]
+file = "mods/integration-foregoing.pw.toml"
+hash = "87faafe82f6d61165d42928b6dd667aba7d62d4207f359f98a73781b97c994f3"
 metafile = true
 
 [[files]]
@@ -436,6 +466,11 @@ hash = "038af7817472326b3139b6fd788d85d3af9380b0fbc95794164fbb07d04c0ed6"
 metafile = true
 
 [[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-wolves.pw.toml"
 hash = "9460df8924a51e9b4b4f2639d2cdf7bb960f3d8170ecc2237d99c662423b5ffb"
 metafile = true
@@ -443,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/swingthroughgrass.pw.toml"
 hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
+metafile = true
+
+[[files]]
+file = "mods/tesla-core-lib.pw.toml"
+hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
 
 [[files]]
