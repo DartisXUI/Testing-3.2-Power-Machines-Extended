@@ -573,3 +573,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "dad85fbfb4d6ccf0e845371741879524abdae43d4820fbcf7a20a4242b83ce64"
+
+[[files]]
+file = "quark.cfg"
+hash = "ef119c23b3f8fa28fe5d2a12fdae455e43267d104fc88487cb236b3ef969cc56"
